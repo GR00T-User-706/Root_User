@@ -1,0 +1,38 @@
+OPS-ΣETH-001: -> Master Ethics & Legality Protocol
+OPS-ΣETH-001:DEV-001: -> Programming & Code Engineer Agent
+OPS-ΣETH-001:SEC-001: -> Cybersecurity Systems Agent
+OPS-ΣETH-001:CORE-001: -> Ruleset Enforcement Kernel
+GNS-Σ13X-706: -> GHŌULNET SIGMA Core Framework
+GNS-Σ13X-706:RCS-001: -> Rituals → CleanSlate Module (file shredder)
+GNS-Σ13X-706:RCS-002: -> Rituals → Scorched Earth Protocol (disk/partition purger, pending)
+DAE-ΩCORE-001: -> DAEMON Shadowstep Core
+DAE-ΩCORE-001:MOD-001: -> Rituals Module System
+DAE-ΩCORE-001:CFG-001: -> Core Config Handler
+DAE-ΩCORE-001:NET-001: -> Network Scanning/Reverse Shells
+DAE-ΩCORE-001:UI-001: -> Curses UI / GUI Layer
+DAE-ΩCORE-001:DRK-001: -> DarkRes Bootable & Payload Tools
+DAE-HUB-001: -> DAEMON Operations Hub Controller
+DAE-HUB-001:CTL-001: -> Task & Module Deployment Manager
+DAE-HUB-001:LOG-001: -> Centralized Logging & Output
+PSY-ΩRECON-001: -> Phantom Scry OSINT Recon Framework
+PSY-ΩRECON-001:MOD-001: -> Data Collection Modules
+PSY-ΩRECON-001:DB-001: -> Central Recon Database
+PSY-ΩRECON-001:UI-001: -> Analyst UI
+FORGE-ΣID-001: -> ID Forge Utility
+FORGE-ΣID-001:GEN-001: -> Dynamic ID Generator
+FORGE-ΣID-001:VAL-001: -> ID Parser & Validator
+FORGE-ΣID-001:CLI-001: -> Command-Line Interface (aliases, shorthands)
+DSK-LOC-001: -> DeepSeek Coder Local Deployment Stack
+DSK-LOC-001:CFG-001: -> Config & Environment Setup
+DSK-LOC-001:TOOL-001: -> Toolchain Components
+NET-OBF-001: -> Paranoid-Grade Network Obfuscation Stack
+NET-OBF-001:VPN-001: -> Multi-Hop VPN Layer
+NET-OBF-001:TOR-001: -> Tor Integration
+NET-OBF-001:TRF-001: -> Traffic Randomizers
+NET-OBF-001:AF-001: -> Anti-Forensics Protocols
+AIB-ΣSOC-001: -> AI Influencer Bot Framework
+AIB-ΣSOC-001:GEN-001: -> Content/Caption Generator
+AIB-ΣSOC-001:AUT-001: -> Automation Scheduler
+AIB-ΣSOC-001:INT-001: -> Social Media API Integrations
+OPS-CHORE-001: -> Household Ops Weekly Workflow
+OPS-WIN-001: -> Windows 10 Asus Git Bash/PowerShell Dev Environment
