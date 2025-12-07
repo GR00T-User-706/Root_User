@@ -1,6 +1,7 @@
 ---
 # I’m ZSS, 
 ## Cybermancer_Syndicate
+### that moment when you crossed the line from “Python hobbyist” into “my system has custom executables because I said so." vibes!
 ---
 ---
 ## 💥 if its not broken...
